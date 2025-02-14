@@ -1,9 +1,9 @@
 # 👋 Hi, I'm SIFOUANE Lyna Basma!
 🎓 I'm a **Master's student in Visual Computing** at the **University of Science and Technology Houari Boumediene (USTHB)**.  <br>💻 I have a **Bachelor's degree in Information Systems and Software Engineering**.  <br>🤖 Currently diving into the world of **Artificial Intelligence** and **Data Science**.  <br>🎮 Exploring **Game Development** and **3D Modeling** as a beginner.  <br><br> 
 # 🔍 What I'm Learning 
+- Computer Vision & Visual Computing
 - AI & Machine Learning
 - Data Science & Analytics
-- Computer Vision & Visual Computing
 - Game Development (Unity, Godot)
 - 3D Modeling (Blender)
 
