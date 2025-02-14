@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm SIFOUANE Lyna Basma!  
 
-<!--
-**SifouaneLyna/SifouaneLyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Master's student in Visual Computing** at the **University of Science and Technology Houari Boumediene (USTHB)**.  
+💻 I have a **Bachelor's degree in Information Systems and Software Engineering**.  
+🤖 Currently diving into the world of **Artificial Intelligence** and **Data Science**.  
+🎮 Exploring **Game Development** and **3D Modeling** as a beginner.  
 
-Here are some ideas to get you started:
+## 🔍 What I'm Learning  
+- AI & Machine Learning  
+- Data Science & Analytics  
+- Computer Vision & Visual Computing  
+- Game Development (Unity, Godot)  
+- 3D Modeling (Blender)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Excited to collaborate and learn new things!  
